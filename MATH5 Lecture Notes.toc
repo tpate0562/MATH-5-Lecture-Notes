@@ -1,39 +1,39 @@
 \contentsline {section}{\numberline {1}Chapter 1}{3}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Systems of Equations}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Row Reductions and Echelon Form}{5}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Vector Equations}{5}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}The Matrix Equations Ax=b}{5}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}Solution Sets for Linear Systems}{5}{subsection.1.5}%
-\contentsline {subsection}{\numberline {1.6}Linear Independence}{5}{subsection.1.6}%
-\contentsline {subsection}{\numberline {1.7}Linear Transformations}{5}{subsection.1.7}%
-\contentsline {subsection}{\numberline {1.8}The Matrix of a Linear Transformation}{5}{subsection.1.8}%
-\contentsline {section}{\numberline {2}Chapter 2}{5}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Matrix Operations}{5}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}The Inverse of a Matrix}{5}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Characterizations of Invertible Matrices}{5}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Chapter 3}{5}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Introduction to Determinants}{5}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Properties of Determinants}{5}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Cramer's Rule and Linear Transformations}{5}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Chapter 4}{5}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Vector Spaces and Subspaces}{5}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Null Spaces and Column Spaces}{5}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Linear Independence}{5}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Coordinate Systems}{5}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Dimension and Rank}{5}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Change of Basis}{5}{subsection.4.6}%
-\contentsline {section}{\numberline {5}Chapter 5}{5}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Eigenvectors and Eigenvalues}{5}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}The Characteristic Equations}{5}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Diagonalization}{5}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Eigenvectors and Linear Transformations}{5}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Complex Eigenvalues}{5}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Discrete Dynamical Systems}{5}{subsection.5.6}%
-\contentsline {subsection}{\numberline {5.7}Applications to Markov Chains}{5}{subsection.5.7}%
-\contentsline {section}{\numberline {6}Chapter 6}{5}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Inner Product Spaces}{5}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Orthogonal Sets}{5}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Orthogonal Projections}{5}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}The Gram Schmdit Process}{5}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}Inner Product Spaces}{5}{subsection.6.5}%
-\contentsline {section}{\numberline {7}Example Problems with Solutions}{6}{section.7}%
+\contentsline {subsection}{\numberline {1.2}Row Reductions and Echelon Form}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Vector Equations}{6}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}The Matrix Equations Ax=b}{6}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Solution Sets for Linear Systems}{6}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Linear Independence}{6}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Linear Transformations}{6}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}The Matrix of a Linear Transformation}{6}{subsection.1.8}%
+\contentsline {section}{\numberline {2}Chapter 2}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Matrix Operations}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}The Inverse of a Matrix}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Characterizations of Invertible Matrices}{6}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Chapter 3}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Introduction to Determinants}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Properties of Determinants}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Cramer's Rule and Linear Transformations}{6}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Chapter 4}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Vector Spaces and Subspaces}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Null Spaces and Column Spaces}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Linear Independence}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Coordinate Systems}{6}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Dimension and Rank}{6}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Change of Basis}{6}{subsection.4.6}%
+\contentsline {section}{\numberline {5}Chapter 5}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Eigenvectors and Eigenvalues}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}The Characteristic Equations}{6}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Diagonalization}{6}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Eigenvectors and Linear Transformations}{6}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Complex Eigenvalues}{6}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Discrete Dynamical Systems}{6}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Applications to Markov Chains}{6}{subsection.5.7}%
+\contentsline {section}{\numberline {6}Chapter 6}{6}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Inner Product Spaces}{6}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Orthogonal Sets}{6}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Orthogonal Projections}{6}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}The Gram Schmdit Process}{6}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Inner Product Spaces}{6}{subsection.6.5}%
+\contentsline {section}{\numberline {7}Example Problems with Solutions}{7}{section.7}%
