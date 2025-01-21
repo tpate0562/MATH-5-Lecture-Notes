@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1737057772.01136 "/Users/tejaspatel/Desktop/LaTeX Projects/MATH 5 Lecture Notes/MATH-5-Lecture-Notes/MATH5 Lecture Notes.tex" "MATH5 Lecture Notes.pdf" "MATH5 Lecture Notes" 1737057773.18816 0
-  "/Users/tejaspatel/Desktop/LaTeX Projects/MATH 5 Lecture Notes/MATH-5-Lecture-Notes/MATH5 Lecture Notes.tex" 1737057769.45048 6898 b46c530333cd03afdfd0c4c41b1db393 ""
+["pdflatex"] 1737062683.43379 "/Users/tejaspatel/Desktop/LaTeX Projects/MATH 5 Lecture Notes/MATH-5-Lecture-Notes/MATH5 Lecture Notes.tex" "MATH5 Lecture Notes.pdf" "MATH5 Lecture Notes" 1737062684.79712 0
+  "/Users/tejaspatel/Desktop/LaTeX Projects/MATH 5 Lecture Notes/MATH-5-Lecture-Notes/MATH5 Lecture Notes.tex" 1737062683.11175 6899 ec53b8d536869063697eeb756df100a7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -202,10 +202,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1729555295.99067 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1729555229 8221428 380a9ae05887af09f5a76ce7a01b05d8 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "MATH5 Lecture Notes.aux" 1737057773.09641 5137 21b5dc4d3624da0fd4cad1e3cb26f9b7 "pdflatex"
-  "MATH5 Lecture Notes.out" 1737057773.09783 6758 4b451f9a8dda47b8196a667ebaf98294 "pdflatex"
-  "MATH5 Lecture Notes.tex" 1737057769.45048 6898 b46c530333cd03afdfd0c4c41b1db393 ""
-  "MATH5 Lecture Notes.toc" 1737057773.09815 3376 d3816ff0e629b752e5d52191d799ac74 "pdflatex"
+  "MATH5 Lecture Notes.aux" 1737062684.69872 5137 21b5dc4d3624da0fd4cad1e3cb26f9b7 "pdflatex"
+  "MATH5 Lecture Notes.out" 1737062684.70007 6758 4b451f9a8dda47b8196a667ebaf98294 "pdflatex"
+  "MATH5 Lecture Notes.tex" 1737062683.11175 6899 ec53b8d536869063697eeb756df100a7 ""
+  "MATH5 Lecture Notes.toc" 1737062684.70038 3376 d3816ff0e629b752e5d52191d799ac74 "pdflatex"
   (generated)
   "MATH5 Lecture Notes.aux"
   "MATH5 Lecture Notes.log"
