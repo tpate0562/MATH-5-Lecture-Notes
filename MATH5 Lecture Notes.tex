@@ -7,6 +7,7 @@
 \usepackage{setspace}
 \usepackage{units}
 \usepackage{booktabs}
+\usepackage{amssymb}
 \usepackage{graphicx}
 \usepackage{multirow}
 \usepackage{amsopn}
@@ -17,6 +18,7 @@
 \usepackage{gensymb}
 \usepackage[margin = 1in]{geometry}
 \AtBeginEnvironment{document}{\everymath{\displaystyle}}
+\newtheorem{theorem}{1.4}
 \title{MATH 5 Lecture Notes}
 \date{Tuesday, 14 January, 2025}
 \author{Tejas Patel}
@@ -113,12 +115,29 @@ $
 \end{array}\right] 
 $
 \\Translate back to equations where $x_2=t$\\
-$x_4 = 5, x_3=2, x_1+\frac{2}{3}x_2=0 \\ x_1 = -\frac{2}{3}t\\x_2=t\\x_3=2\\x_4=5 \boxed{\text{Solution:} (-\frac{2}{3}t, t, 2, 5) }$
+$x_4 = 5, x_3=2, x_1+\frac{2}{3}x_2=0 \\ x_1 = -\frac{2}{3}t\\x_2=t\\x_3=2\\x_4=5 \; \boxed{\text{Solution:} (-\frac{2}{3}t, t, 2, 5) }$
 \\If a solution exists and there is a free variable then there are infinitely many solutions 
 
 
 \subsection{Vector Equations}
+If ${\vec{a}_1...\vec{a}_j}$ spans $\mathbb{R}^n$ then any $\vec{b}$ in $\mathbb{R}^n$ can be written as a Linear Combination of ${\vec{a}_1...\vec{a}_j}$ so there exists ${{x}_1...{x}_j}$ so that ${x_1\vec{a}_1...x_j\vec{a}_j}=\vec{b}$ 
+\\In math: ${\vec{a}_1...\vec{a}_j}$ spans $\mathbb{R}^n \Leftrightarrow \forall \vec{b} \epsilon \mathbb{R}^n \exists {{x}_1...{x}_j} \mathbb{R}$ so ${x_1\vec{a}_1...x_j\vec{a}_j}=\vec{b}$  
+\\ \textbf{Theorem: }
+If $\vec{v_1},..., \vec{v_p}, \vec{b}, \epsilon \mathbb{R}^n$ the following statements are equivalent:
+\begin{enumerate}
+    \item $\vec{b}$ is a linear combination of $\vec{v_1},...,\vec{v_p}$
+    \item $\exists x_1,...,x_p \epsilon \mathbb{R}$ so $x_1\vec{v_1}+...x_p\vec{v_p}=b$
+    \item $\vec{b} \epsilon$ spans {$\vec{v_1},..., \vec{v_p}$}
+    \item \text{The linear \underbar{system} corresponding to augmented matrix with columns} $\left[\vec{v_1}...\vec{v_p} | \vec{b}\right]$ is consistent
+    \item The reduced row echelon matrix of this augmented matrix does not contain a pivot in the last column $\left[0...0| 1 \right]$
+\end{enumerate}
 \subsection{The Matrix Equations Ax=b}
+\textbf{Matrix Multiplication} $A\cdot \vec{b}= \left[\begin{array}{ccc}
+    a_1&a_2&a_3
+\end{array}\right]
+\left[\begin{array}{c}
+    b_1\\b_2\\b_3
+\end{array}\right] = b_1\vec{a}_1 + b_2\vec{a}_2 + b_3\vec{a}_3$   \\Matrix A times a vector $\vec{b}$ 
 \subsection{Solution Sets for Linear Systems}
 \subsection{Linear Independence}
 \subsection{Linear Transformations}
@@ -152,10 +171,6 @@ $x_4 = 5, x_3=2, x_1+\frac{2}{3}x_2=0 \\ x_1 = -\frac{2}{3}t\\x_2=t\\x_3=2\\x_4=
 \subsection{Orthogonal Projections}
 \subsection{The Gram Schmdit Process}
 \subsection{Inner Product Spaces}
-
-
-
-
 \pagebreak
 \section{Example Problems with Solutions}
 \textbf{1: Find the general solution to the homogenous system below}\\[0.1in]
